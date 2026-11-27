@@ -1,1 +1,0 @@
-# Delete current plan logic
